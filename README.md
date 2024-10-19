@@ -7,6 +7,9 @@
 * https://github.com/Codeginner/Project-KP---Fraud-Detection-Using-Logistic-Regression
 * https://github.com/Codeginner/Web-Scraping
 * https://github.com/Codeginner/Sistem-Pendeteksi-Suhu-Tubuh-dan-Hand-Sanitizer-Otomatis-Berbasis-IoT
+* Checkout my [Discord Bot] 😂
+
+[Discord Bot]: https://replit.com/@Codeginner/Badut-Project
 
 ## Learning Experience
 * https://github.com/Codeginner/machine-learning-coursework
