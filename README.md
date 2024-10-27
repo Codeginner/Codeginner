@@ -13,4 +13,8 @@
 [Discord Bot]: https://replit.com/@Codeginner/Badut-Project
 
 ## Learning Experience
-* https://github.com/Codeginner/machine-learning-coursework
+* [Machine Learning] 
+* Python Basic at [Bootcamp Python HMTK x Progate] 
+
+[Bootcamp Python HMTK x Progate]: https://progate.com/dashboard/all_lessons?platform=web&state=completed 
+[Machine Learning]: https://github.com/Codeginner/machine-learning-coursework
