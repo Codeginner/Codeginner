@@ -4,7 +4,7 @@
 
 ## Project
 * My [Final Project] 
-* [Vocational Training Project at ProCodeCG - Fraud Detection using Logistic Regression] 
+* [Internship Project at ProCodeCG - Fraud Detection using Logistic Regression] 
 * [OOP Course Final Project - Web Scraping] 
 * [IoT Course Final Project]
 * Checkout my [Discord Bot] 😂
