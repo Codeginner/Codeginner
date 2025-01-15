@@ -10,7 +10,7 @@
 * Checkout my [Discord Bot] 😂
 
 [Final Project]: https://replit.com/@Codeginner/FraudDetectionWebApp
-[Vocational Training Project at ProCodeCG - Fraud Detection using Logistic Regression]: https://github.com/Codeginner/Project-KP---Fraud-Detection-Using-Logistic-Regression
+[Internship Project at ProCodeCG - Fraud Detection using Logistic Regression]: https://github.com/Codeginner/Project-KP---Fraud-Detection-Using-Logistic-Regression
 [OOP Course Final Project - Web Scraping]: https://github.com/Codeginner/Web-Scraping
 [IoT Course Final Project]: https://github.com/Codeginner/Sistem-Pendeteksi-Suhu-Tubuh-dan-Hand-Sanitizer-Otomatis-Berbasis-IoT
 [Discord Bot]: https://replit.com/@Codeginner/Badut-Project
