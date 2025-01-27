@@ -3,7 +3,7 @@
 👋 Hello! My name is Gilman Muslih Zakir, an undergraduate Computer Engineering student at Telkom University, Bandung, with interests in machine learning, data analysis, and web application development. Currently, I am focusing on applying machine learning to detect suspicious transactions as part of my final project.
 
 ## Project
-* My [Final Project] 
+* [Final Project] 
 * [Internship Project at ProCodeCG - Fraud Detection using Logistic Regression] 
 * [OOP Course Final Project - Web Scraping] 
 * [IoT Course Final Project]
